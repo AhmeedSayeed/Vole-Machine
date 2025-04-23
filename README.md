@@ -34,3 +34,11 @@ This project breaks down the idea of a computer into smaller parts:
 
 This project was created as a way to practice building something with OOP and to better understand how computers actually work. It's great for students or anyone curious about computer architecture in a very hands-on way.
 
+---
+
+## 👨‍💻 Authors
+
+- **Ahmed Sayed Ahmed**  
+- **Noureldin Mohamed Amin**  
+- **Eslam Saeed**  
+
